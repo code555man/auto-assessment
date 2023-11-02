@@ -11,7 +11,9 @@
 #### กรณีที่เกิดปัญหา
 > กรณีที่ 1  เว็บไชต์ของมหาลัยทำระบบใหม่
 
-> กรณีที่ 2 chromedriver เวอร์ชั่นไม่ตรงกับ chrome browser โหลดตามลิงก์นี้ https://googlechromelabs.github.io/chrome-for-testing/
+> กรณีที่ 2 chromedriver เวอร์ชั่นไม่ตรงกับ chrome browser วิธีเช็คเวอร์ชั่น  `การตั้งค่า > ความช่วยเหลือ > เกี่ยวกับ Google Chrome`
+
+>  โหลดตามลิงก์นี้ https://googlechromelabs.github.io/chrome-for-testing/
 
 > กรณีที่ 3 ไม่ได้เชื่อมต่อ  Internet
 
