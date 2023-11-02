@@ -1,4 +1,5 @@
 ## โปรแกรมประเมินอาจารย์ประจำรายวิชา
+### vvdvdvd
 
 #### กรณีที่เกิดปัญหา
 > กรณีที่ 1  เว็บไชต์ของมหาลัยทำระบบใหม่
@@ -7,5 +8,5 @@
 
 > กรณีที่ 3 ไม่ได้เชื่อมต่อ  Internet
 
-
-<img src="https://github.com/codeman0420/sms-spammer/blob/main/screenshot.jpg">
+### Screenshot
+<img src="https://github.com/code555man/auto-assessment/blob/main/Screenshot.png" width="" height="">
