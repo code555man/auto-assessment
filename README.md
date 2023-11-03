@@ -13,7 +13,7 @@
 
 > กรณีที่ 2 chromedriver เวอร์ชั่นไม่ตรงกับ chrome browser วิธีเช็คเวอร์ชั่น  `ความช่วยเหลือ > เกี่ยวกับ Google Chrome`
 
-> โหลดตามลิงก์นี้ https://googlechromelabs.github.io/chrome-for-testing/
+> โหลดตามลิงก์นี้ https://googlechromelabs.github.io/chrome-for-testing/ [ลบ chromedriver ตัวเก่าทิ้งด้วย]
 
 > กรณีที่ 3 ไม่ได้เชื่อมต่อ  Internet
 
